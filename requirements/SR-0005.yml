@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Link related content and next steps as live hyperlinks"
+text: "Connect the reader to related content and next steps with live inline hyperlinks on the meaningful words, rather than writing out web addresses for them to type."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Navigation and actions"
+  principle: UR-0003

@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "Use on-screen formatting to aid scanning"
+text: "Use the formatting the screen supports — headings, bulleted lists, tables and bold for key terms — to help the reader scan, rather than presenting everything as unbroken prose."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Presentation and formatting"
+  principle: UR-0005

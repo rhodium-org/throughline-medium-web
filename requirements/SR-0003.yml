@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Keep each page to a single topic or task"
+text: "Cover one topic or task per page; where the reader needs a separate task, give it its own page rather than lengthening this one."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Length and density"
+  principle: UR-0002

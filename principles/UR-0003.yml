@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Connect and act through the page's live affordances"
+text: "On a web page the reader can click, so link related content and offer actions rather than spelling out addresses."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Web page — Navigation and actions"

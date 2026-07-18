@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Put the most important information first"
+text: "Lead with the point the reader most needs, then supporting detail, so someone who reads only the top of the page still gets the essentials."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Structure for the channel"
+  principle: UR-0001

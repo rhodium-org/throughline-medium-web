@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Open with a descriptive page title that works in search"
+text: "Give the page a clear, descriptive heading that states what it is about, so it makes sense in a search result, a browser tab and a shared link."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Opening and closing"
+  principle: UR-0004

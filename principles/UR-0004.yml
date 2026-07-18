@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Frame the page the web way, not as correspondence"
+text: "A web page is framed by its title, not by a salutation and sign-off; give it a heading that works in search and omit letter framing."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Web page — Opening and closing"

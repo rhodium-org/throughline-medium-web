@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Structure the page for scanning, not linear reading"
+text: "Readers scan a web page and jump around it; shape the content so the key point comes first and sections can be found at a glance."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Web page — Structure for the channel"

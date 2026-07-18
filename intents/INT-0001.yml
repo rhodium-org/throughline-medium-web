@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text is delivered as a web page"
+text: "A web page is read on screen, often reached through search, scanned rather than read word by word, and may be viewed on a small mobile screen. The reader scrolls, jumps between headings and clicks links, and the page competes for their attention. This axis governs how delivery is shaped for that channel — structure, length, navigation, framing and presentation — not universal readability, spelling, register, purpose or audience, each of which is a separate source. Channels are mutually exclusive: a consumer composes exactly one of the web, letter, email, SMS or print sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Medium — Web page"

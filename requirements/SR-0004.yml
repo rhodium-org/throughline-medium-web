@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Place the essential information before the reader must scroll"
+text: "Put what the reader most needs near the top of the page, so they do not have to scroll to find it, especially on a small screen."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Length and density"
+  principle: UR-0002

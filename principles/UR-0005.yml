@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Use on-screen formatting and let it reflow"
+text: "Use the formatting the screen supports to aid scanning, and do not tie the content to a fixed page size."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Web page — Presentation and formatting"

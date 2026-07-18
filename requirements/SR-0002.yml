@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Break the page into short sections with descriptive headings"
+text: "Divide the page into short sections under headings that describe what each section covers, so the reader can scan and jump to the part they need."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Structure for the channel"
+  principle: UR-0001

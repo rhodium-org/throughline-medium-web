@@ -1,0 +1,11 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: "Do not frame a web page as a letter"
+text: "Do not open with a salutation or close with a sign-off or postal address block; a web page is not addressed to one named reader and needs no letter framing."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Opening and closing"
+  principle: UR-0004

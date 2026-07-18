@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Offer one clear call to action the reader can click"
+text: "Where the page leads to an action, present it as a single clear, clickable call to action rather than burying the next step in prose."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Medium — Web page — Navigation and actions"
+  principle: UR-0003

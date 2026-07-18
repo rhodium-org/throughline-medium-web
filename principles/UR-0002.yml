@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Keep each page focused and lead with what matters"
+text: "A web page should cover one thing and put the essential information where the reader sees it first."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Medium — Web page — Length and density"
